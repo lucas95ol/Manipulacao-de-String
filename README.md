@@ -1,5 +1,5 @@
 # Manipulacao-de-String
-Cinco exercícios do desafio de manipulação de Strings propostos pela empresa PWC, sendo eles:
+Cinco exercícios do desafio de manipulação de Strings com Dart, sendo eles:
 
 1. Reverta a ordem das palavras nas frases, mantendo a ordem das palavras,
 realizado conforme o arquivo reverterOrdemFrase.dart
